@@ -4,6 +4,10 @@
 const welcome: string = () => ({ message: 'A developer passionate about programming' });
 ```
 
+# Multilanguage
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Byertm/Byertm/blob/main/README.md)
+[![tr-TR](https://img.shields.io/badge/lang-tr--TR-green.svg)](https://github.com/Byertm/Byertm/blob/main/README.tr-TR.md)
+
 <hr />
 <br />
 
