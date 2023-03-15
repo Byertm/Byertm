@@ -4,7 +4,7 @@
 const welcome: string = () => ({ message: 'Programlama konusunda tutkulu bir geliştirici' });
 ```
 
-# Multilanguage
+# Diğer Dil Seçenekleri
 [![en](https://img.shields.io/badge/lang-en-green.svg)](https://github.com/Byertm/Byertm/blob/main/README.md)
 [![tr-TR](https://img.shields.io/badge/lang-tr--TR-red.svg)](https://github.com/Byertm/Byertm/blob/main/README.tr-TR.md)
 
