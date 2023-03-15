@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Ersin Biltekin</h1>
+<h1 align="center">Merhaba 👋, Ben Ersin Biltekin</h1>
 
 ```ts
-const welcome: string = () => ({ message: 'A developer passionate about programming' });
+const welcome: string = () => ({ message: 'Programlama konusunda tutkulu bir geliştirici' });
 ```
 
 <hr />
 <br />
 
--   👯 I’m looking to collaborate on Opensource projects
--   👨‍💻 All of my projects are available here on my GH account.
--   💬 Ask me about **javascript, vuejs and any general programming** question.
--   🌐 Checkout my [Youtube Channel](https://www.youtube.com/@ErsinBiltekin)
--   📫 How to reach me **ersinbiltekin@hotmail.com**
+-	👯 Açık kaynak projelerinde işbirliği yapmak istiyorum
+-	👨‍💻 Tüm projelerim burada GH hesabımda mevcuttur.
+-	💬 Bana **javascript, vuejs ve herhangi bir genel programlama**sorusu sorun.
+-	🌐 [Youtube Kanalıma] göz atın(https://www.youtube.com/@ErsinBiltekin)
+-	📫 Bana nasıl ulaşabilirsiniz **ersinbiltekin@hotmail.com**
 
 <br />
 
@@ -28,23 +28,22 @@ const welcome: string = () => ({ message: 'A developer passionate about programm
 
 <br />
 
-### Projects
+### Projelerim
 
--   🚀 [BwDApi](https://github.com/Byertm/BwDMevnStack/Server) NodeJs and TypeScript based ExpressJs, MongoDB api
--   🚀 [BwDAdmin](https://github.com/Byertm/BwDMevnStack/Admin) Vue 3 and TypeScript based Admin Project
--   ✨ [BwDWeb](https://github.com/Byertm/BwDMevnStack/Client) Vue 3 and TypeScript based Blog Client FrontEnd Project
-
-<br />
-
-### Working On
-
--   Elegant - What about making websites with gestures? 😌
--   ✨ [bwdElegantUI-vue] (https://github.com/Byertm/BwDElegant) - Coming Soon
+-   🚀 [BwDApi](https://github.com/Byertm/BwDMevnStack/Server) NodeJ'ler ve TypeScript tabanlı ExpressJ'ler, MongoDB api
+-   🚀 [BwDAdmin](https://github.com/Byertm/BwDMevnStack/Admin) Vue 3 ve TypeScript tabanlı Yönetici Projesi
+-   ✨ [BwDWeb](https://github.com/Byertm/BwDMevnStack/Client) Vue 3 ve TypeScript tabanlı Blog İstemcisi Ön Uç Projesi
 
 <br />
 
+### Açık Kaynak
 
-<h3 align="center">Socials</h3>
+-	Elegant - Hareketli web siteleri yapmaya ne dersiniz? 😌
+-   ✨ [bwdElegantUI-vue] (https://github.com/Byertm/BwDElegant) - Yakında gelecek
+
+<br />
+
+<h3 align="center">Sosyal Medya</h3>
 <p align="center">
 	<a href="https://codepen.io/byertm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@8.6.0/icons/codepen.svg" alt="byertm" height="30" width="40" /></a>
 	<a href="https://dev.to/byertm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@8.6.0/icons/devdotto.svg" alt="byertm" height="30" width="40" /></a>
@@ -56,7 +55,7 @@ const welcome: string = () => ({ message: 'A developer passionate about programm
 
 <br />
 
-<h3 align="center">My Favorites</h3>
+<h3 align="center">Favorilerim</h3>
 <p align="center">
 	<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /></a>
 	<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /></a>
@@ -79,7 +78,7 @@ const welcome: string = () => ({ message: 'A developer passionate about programm
 
 <br />
 
-<h3 align="center">Languages</h3>
+<h3 align="center">Diller</h3>
 <p align="center">
 	<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /></a>
 	<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /></a>
@@ -93,9 +92,9 @@ const welcome: string = () => ({ message: 'A developer passionate about programm
 	<!-- <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a> -->
 </p>
 
-<h3 align="center">Freamworks</h3>
+<h3 align="center">Freamworkler</h3>
 <p align="right">
-	<h4 align="right">JavaScript Freamworks</h4>
+	<h4 align="right">JavaScript Freamworkler</h4>
 	<p align="right">
 		<a href="https://angular.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="angular" width="40" height="40" /></a>
 		<a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" /></a>
@@ -111,20 +110,20 @@ const welcome: string = () => ({ message: 'A developer passionate about programm
 		<!-- <a href="https://www.electronjs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40" /></a> -->
 		<!-- <a href="https://vuepress.vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="40" height="40" /></a> -->
 	</p>
-	<h4 align="left">Css Pre Processors</h4>
+	<h4 align="left">Css Ön İşlemcileri</h4>
 	<p align="left">
 		<a href="https://sass-lang.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" /></a>
 		<a href="https://lesscss.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/less/less-plain-wordmark.svg" alt="less" width="40" height="40" /></a>
 		<a href="https://stylus-lang.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stylus/stylus-original.svg" alt="stylus" width="40" height="40" /></a>
 	</p>
-	<h4 align="right">Editors</h4>
+	<h4 align="right">Editörler</h4>
 	<p align="right">
 		<a href="https://atom.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg" alt="atom" width="40" height="40" /></a>
 		<a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" /></a>
 		<a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40" /></a>
 		<a href="https://www.vim.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40" /></a>
 	</p>
-	<h4 align="left">Sql & Databases & More</h4>
+	<h4 align="left">Sql ve Veritabanları ve Daha Fazlası</h4>
 	<p align="left">
 		<!-- <a href="https://firebase.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40" /></a> -->
 		<a href="https://graphql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40" /></a>
@@ -134,14 +133,14 @@ const welcome: string = () => ({ message: 'A developer passionate about programm
 		<!-- <a href="https://www.sqlite.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40" /></a> -->
 		<!-- <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" /></a> -->
 	</p>
-	<h4 align="right">UI-UX Freamworks</h4>
+	<h4 align="right">UI-UX Freamworkler</h4>
 	<p align="right">
 		<a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /></a>
 		<!-- <a href="https://materializecss.com/" target="_blank"><img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40" /></a> -->
 		<a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40" /></a>
 		<!-- <a href="https://vuetifyjs.com/en/" target="_blank"><img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40" /></a> -->
 	</p>
-	<h4 align="left">Mixed</h4>
+	<h4 align="left">Karışık</h4>
 	<p align="left">
 		<a href="https://eslint.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg" alt="eslint" width="40" height="40" /></a>
 		<a href="https://www.markdownguide.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40" /></a>
@@ -153,9 +152,9 @@ const welcome: string = () => ({ message: 'A developer passionate about programm
 
 <br />
 
-<h3 align="center">Tools</h3>
+<h3 align="center">Araç ve Aletler</h3>
 <p align="center">
-	<h4 align="right">General</h4>
+	<h4 align="right">Genel</h4>
 	<p align="right">
 		<a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" /></a>
 		<a href="https://gitlab.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40" /></a>
@@ -164,13 +163,13 @@ const welcome: string = () => ({ message: 'A developer passionate about programm
 		<a href="https://codepen.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-plain.svg" alt="codepen" width="40" height="40" /></a>
 		<a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /></a>
 	</p>
-	<h4 align="left">JavaScript Libraries</h4>
+	<h4 align="left">JavaScript Kütüphaneleri</h4>
 	<p align="left">
 		<a href="https://jquery.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="chartjs" width="40" height="40" /></a>
 		<a href="https://www.chartjs.org" target="_blank"><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" /></a>
 		<a href="https://threejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original-wordmark.svg" alt="threejs" width="40" height="40" /></a>
 	</p>
-	<h4 align="right">User Interface (UI)</h4>
+	<h4 align="right">Kullanıcı Arayüzü (UI)</h4>
 	<p align="right">
 		<a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40" /></a>
 		<a href="https://www.canva.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="figma" width="40" height="40" /></a>
@@ -182,7 +181,7 @@ const welcome: string = () => ({ message: 'A developer passionate about programm
 
 <br />
 
-<h3 align="left">Web Browsers And Tools</h3>
+<h3 align="left">Web Tarayıcıları ve Araçları</h3>
 <p align="left">
 	<a href="https://www.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="google" width="40" height="40" /></a>
 	<a href="https://www.google.com/intl/en_GB/chrome/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="chrome" width="40" height="40" /></a>
@@ -194,7 +193,7 @@ const welcome: string = () => ({ message: 'A developer passionate about programm
 
 <br />
 
-<h3 align="right">Other</h3>
+<h3 align="right">Diğer</h3>
 <p align="right">
 	<a href="https://www.digitalocean.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg" alt="digitalocean" width="40" height="40" /></a>
 	<a href="https://heroku.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="40" height="40" /></a>
