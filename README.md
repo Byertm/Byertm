@@ -34,9 +34,9 @@ const welcome: string = () => ({ message: 'A developer passionate about programm
 
 ### Projects
 
--   🚀 [BwDApi](https://github.com/Byertm/BwDMevnStack/Server) NodeJs and TypeScript based ExpressJs, MongoDB api
--   🚀 [BwDAdmin](https://github.com/Byertm/BwDMevnStack/Admin) Vue 3 and TypeScript based Admin Project
--   ✨ [BwDWeb](https://github.com/Byertm/BwDMevnStack/Client) Vue 3 and TypeScript based Blog Client FrontEnd Project
+-   🚀 [BwDApi](https://github.com/Byertm/BwDMevnStack/tree/main/server) NodeJs and TypeScript based ExpressJs, MongoDB api
+-   🚀 [BwDAdmin](https://github.com/Byertm/BwDMevnStack/tree/main/admin) Vue 3 and TypeScript based Admin Project
+-   ✨ [BwDWeb](https://github.com/Byertm/BwDMevnStack/tree/main/front) Vue 3 and TypeScript based Blog Client FrontEnd Project
 
 <br />
 
