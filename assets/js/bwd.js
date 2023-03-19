@@ -55,9 +55,11 @@
 		`;
 		bwdAddStyle?.(cssStyles);
 
-		const bwdHtmlEl = document.createElement('div');
-		bwdHtmlEl.innerText = "ByertmWeb";
-		bwdHtmlEl.classList.add('byertm');
+		const bwdAEl = document.createElement('a');
+		bwdAEl.href = 'https://byertm.github.io';
+		bwdAEl.target = '_blank';
+		bwdAEl.innerText = "ByertmWeb";
+		bwdAEl.classList.add('byertm');
 		document.body.appendChild(bwdHtmlEl);
 	}
 })()
