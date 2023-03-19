@@ -47,6 +47,12 @@
 				opacity: ${opts.opacity || options.opacity};
 				transition: 0.6s ease all;
 			}
+			.byertm:focus,
+			.byertm:link,
+			.byertm:hover,
+			.byertm:visited {
+				color: ${opts.color || options.color};
+			}
 			.byertm:hover {
 				transform: perspective(800px) rotateY(-15deg) translateY(-50px) rotateX(10deg) scale(1);
 				filter: blur(0);
