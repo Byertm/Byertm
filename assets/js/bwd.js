@@ -60,6 +60,6 @@
 		bwdAEl.target = '_blank';
 		bwdAEl.innerText = "ByertmWeb";
 		bwdAEl.classList.add('byertm');
-		document.body.appendChild(bwdHtmlEl);
+		document.body.appendChild(bwdAEl);
 	}
 })()
